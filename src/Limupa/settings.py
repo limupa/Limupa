@@ -105,11 +105,11 @@ WSGI_APPLICATION = 'Limupa.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'Limupa', 
+        'NAME': 'railway', 
         'USER': 'postgres',
-        'PASSWORD': '1234',
-        'HOST': 'db', 
-        'PORT': '5432',
+        'PASSWORD': 'iuraHbLsnxc9fMx9zqvw',
+        'HOST': 'containers-us-west-32.railway.app', 
+        'PORT': '6951',
     }
 }
 
